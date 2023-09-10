@@ -7,6 +7,14 @@ body{
     padding: 0;
 }
 
+#cabecerabranch{
+ background-color: darkcyan;
+ box-shadow: 0px 5px 30px 0px   rgba(0, 0, 0, 0.5);
+ color: antiquewhite;
+ font-weight: bold;
+ margin: 0;
+ padding: 0.5em;
+}
 #container{
     width: 70%;
     padding: 1em;
@@ -17,3 +25,4 @@ body{
 #container h1{
     font-size: 20px;
 }
+
