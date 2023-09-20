@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hola
 yo tengo 31 años
 Mi familia vive en chia
@@ -5,3 +6,10 @@ Trabajamos en bogota
 mañana no trabajaremos
 siempre salimos los domingos
 mi bebe siempre se demora en dormir cuando viajamos
+=======
+Esta es la historia de Freddy Vega
+
+Freddy Vega tiene 32 años y nació en Colombia
+
+Mañana nos enfocaremos en su vida laboral
+>>>>>>> 308721bd793cafddbc9ef36505ae622c97763e53
